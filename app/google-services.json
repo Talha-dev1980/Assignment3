@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5433860883",
+    "project_id": "test-de9f1",
+    "storage_bucket": "test-de9f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5433860883:android:cbd7ee9adbb4bcc3b270e6",
+        "android_client_info": {
+          "package_name": "com.trav.guide.assignment3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5433860883-4ccjenmifj6h3df33q74jce26nsph952.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCrrOoyZP6vaGeNHrPPCmQx-8KSsMGV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5433860883-4ccjenmifj6h3df33q74jce26nsph952.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

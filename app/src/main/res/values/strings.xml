@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="join">Join Us As</string>
+    <string name="guest">Guest</string>
+    <string name="owner">Owner</string>
+    <string name="menu_room">Rooms</string>
+    <string name="menu_Place">Place</string>
+    <string name="menu_about">About</string>
+    <string name="RegisterPlace">Register Place</string>
+    <string name="Register">Register</string>
+    <string name="haveAccount">Already Registered ?</string>
+    <string name="login">Login</string>
+    <string name="getLoc">Get Location</string>
+    <string name="htl_name">Place Name</string>
+    <string name="htl_number">Contact</string>
+    <string name="ownerMail">Owner Mail</string>
+    <string name="passwd">Password</string>
+    <string name="noAccount">Don\'t have An account</string>
+    <string name="title_activity_owner_view">OwnerView</string>
+    <string name="lng">Longitude</string>
+    <string name="lat">Latitude</string>
+    <string name="registerPlace">RegisterPlace</string>
+    <string name="placeName">Place Name</string>
+    <string name="map">Map</string>
+
+</resources>
